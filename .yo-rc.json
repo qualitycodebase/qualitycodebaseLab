@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.qualitycodebase",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "qualitycodebase",
+    "packageName": "com.qualitycodebase",
+    "packageFolder": "com/qualitycodebase",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGQ3ZTkzOWY5YTA3ZmRkN2U1MTlhYTE2YjY5ZjVjZDcwZTAyNzM4MjgxNTAyNDI3ODAyYzZmOWZmMGIwZTQwNDc1MDkwNzY5YjA0MmIyMTU4N2JkMjliNGJmYTZmMDA1MzZkNTg5OWExMjJmMTQzZWQ4NGFkNDYyMmE5NmE2ODk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1581545417158,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn", "nl"],
+    "blueprints": []
+  }
+}
