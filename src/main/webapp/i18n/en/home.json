@@ -1,17 +1,16 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
-    "subtitle": "This is your homepage",
+    "title": "Quality Code Base - API Testing Lab!",
+    "subtitle": "We will use this demo app to demonestrate Basic API testing methods and additional REST API use cases. This app is composed of front end side (angular) and back-end (Java spring framework).API gateway of the application will be targeted while performing CRUD operations/API calls during our lab sessions",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "Most popular CRUD ( Create - Read - Update - Delete) oprations:",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "follow @jhipster on Twitter"
+      "homepage": "GET - Read or retrieve data",
+      "stackoverflow": "POST - Add new data",
+      "bugtracker": "PUT - Update data that already exists ",
+      "chat": "DELETE - Remove Data"
     },
     "like": "If you like JHipster, don't forget to give us a star on",
     "github": "GitHub"
